@@ -1,0 +1,26 @@
+{
+  "name": "product-list-with-cart-main",
+  "version": "1.0.0",
+  "description": "![Design preview for the Product list with cart coding challenge](./preview.jpg)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D3vJhonathan/Product-list--with-cart-main-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/D3vJhonathan/Product-list--with-cart-main-/issues"
+  },
+  "homepage": "https://github.com/D3vJhonathan/Product-list--with-cart-main-#readme",
+  "dependencies": {
+    "connect": "^3.7.0",
+    "cors": "^2.8.5",
+    "serve-static": "^2.2.0"
+  }
+}
