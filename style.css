@@ -3,14 +3,29 @@
     margin: 0;
     padding: o;
 }
+
+html {
+    height: 100%;
+    width: 100%;
+}
 body { 
+    align-items: center;
     display: flex;
     flex-direction: column;
-    max-width: 100px;
+    justify-content: center;
+    position: relative;
+    width: 100%;
 }
-body * {
+
+#Desserts_wrapper {
+    border: 1px solid blue;
+
+}
+#Cart_wrapper {
+    border: 1px solid blue;
+
+}
+#container {
     
-}
-#title {
 
 }
